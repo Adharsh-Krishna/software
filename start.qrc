@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="username">
+    <file>ui/c70194b792ea062c5365b619fd3050b3.svg</file>
+    <file>ui/eeb69a3cb92300456b6a5f4162093851.svg</file>
+  </qresource>
+</RCC>
